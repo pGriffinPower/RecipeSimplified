@@ -67,4 +67,4 @@ def recipe_to_text(url, output_txt):
 
 # Example usage:
 if __name__ == "__main__":
-    recipe_to_text("https://www.spendwithpennies.com/classic-hamburger-recipe/", "hamburger.txt")
+    recipe_to_text("https://www.spendwithpennies.com/air-fryer-meatloaf/", "air_fryer_meatloaf.txt")
